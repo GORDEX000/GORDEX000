@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on my own webpage.<br>Studying programming at Turku Professional Institute – Juhannuskukkula School.<br>Working as a programmer/web developer since 2023.
+🛜 Currently working on my own webpage.<br>👨🏼‍🎓 Studying programming at Turku Professional Institute – Juhannuskukkula School.<br>👨🏼‍💻 Working as a programmer/web developer since 2023.
 
 
 ## 🌐 Socials:
